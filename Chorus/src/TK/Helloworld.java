@@ -1,6 +1,8 @@
+package TK;
 
-public class Helloworld{
+
+public class Helloworld {
 	public static void main(String[] args) {
-		System.out.println("it's tk");
+
 	}
 }
